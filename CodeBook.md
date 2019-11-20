@@ -4,7 +4,7 @@ The R Script - run_analysis.R contains the R Code on the data preparation. It co
 
 These are the steps that has been used based on the requirements of the assignment for cleaning the dataset:
 
--	The Human Activity Recognition Using Smartphones Data Set is downloaded from UCI Machine Learning Repository. (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+-	The [Human Activity Recognition Using Smartphones Data Set](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) is downloaded from UCI Machine Learning Repository. 
 -	The files are extracted from the zip file and are assigned to data frames to easily work on them.
  ```
 -	features : List of all features
